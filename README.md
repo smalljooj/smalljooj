@@ -16,4 +16,8 @@
   
 - 📫 Caso tenha alguma dúvida me contate em
 - firespin147@gmail.com / marinho.ismael@academico.ifpb.edu.br 
+ 
+ #### どんなに大変だったとしても、やり続けることが大切です。
+
+
 
