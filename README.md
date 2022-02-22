@@ -10,8 +10,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="small-C height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   <img align="center" alt="small-C++ height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
-  <img align="center" alt="small-C height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
   <img align="center" alt="small-C height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+  <img align="center" alt="small-C height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
 <img align="right" alt="small-gif height="300" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a444f336714977.573119858ca7f.gif">                                                                                                                           
 </div>
   
