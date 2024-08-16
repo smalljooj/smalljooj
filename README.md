@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
-### Yare yare, eu sou o Ismael Marinho 🐱‍👤
+### Olá sou o Ismael Marinho 🐱‍👤
  <div>
   <a href="https://github.com/smalljooj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smalljooj&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
